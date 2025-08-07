@@ -139,7 +139,7 @@ Generate the complete HTML code now. Do not include any markdown formatting like
 `;
 
         try {
-            const apiKey = "AIzaSyA5QMJGnFiyD31BEHtXC_PTTzXN4j67xyE"; // API key will be injected by the environment
+            const apiKey = ""; // Your Gemini API key
             const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
             const payload = { contents: [{ parts: [{ text: prompt }] }] };
 
