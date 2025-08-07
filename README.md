@@ -2,18 +2,8 @@
 
 This is an advanced, AI-driven web application that generates and animates visualizations for a wide range of algorithms on the fly. Simply describe an algorithm, and the application leverages the power of the Gemini API to create a custom, interactive D3.js visualization.
 
-![image](https://i.imgur.com/9a8zL7g.png)
 
 ---
-
-## ✨ Features
-
--   **AI-Powered Visualization:** Instead of pre-built animations, it generates custom visualizations for virtually any algorithm you can describe.
--   **Flexible Input:** Provide your own data and arguments, or let the AI generate a classic example case for you if you leave the fields blank.
--   **Interactive Controls:** Full control over the animation with play, pause, step-forward, and step-backward functionality.
--   **Aesthetic & Clear Layouts:** For complex graph-based algorithms, the app uses D3.js force simulations to prevent nodes and labels from overlapping, ensuring clarity.
--   **Visual Countdown Timer:** A smooth, circular timer provides a visual cue for the next step during automatic playback.
--   **Responsive Design:** The interface and visualizations are designed to work smoothly on all screen sizes.
 
 ---
 
